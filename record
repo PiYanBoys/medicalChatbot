@@ -1,0 +1,1 @@
+{('1', '?', 'temperature', '?'), ('3', 'Richard', 'symptom1', 'headache'), ('2', 'Roy', 'temperature', '36'), ('2', 'Roy', 'urgency', 30), ('3', 'Richard', 'symptom2', 'a sore throat'), ('2', 'Roy', 'headache', '3'), ('1', '?', 'headache', '?')}
